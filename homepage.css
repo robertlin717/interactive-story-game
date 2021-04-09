@@ -1,0 +1,91 @@
+h1{
+  text-align: center;
+  font-family: 'New Tegomin';
+  font-size: 100px;
+  color: red;
+}
+
+h2{
+  text-align: center;
+  font-family: 'New Tegomin';
+  font-size: 40px;
+  color: black;
+}
+
+h3{
+  font-family: 'Bw Modelica';
+  font-size: 65px;
+}
+
+p{
+  font-family: 'Bw Modelica';
+  font-size: 45px;
+}
+
+body{
+  background-image: url("IU.jpg");
+}
+
+a{
+  font-family: 'Bw Modelica';
+  font-size: 70px;
+}
+
+input{
+  display: inline-block;
+}
+
+#roomTitle{
+  font-family: 'Bw Modelica';
+  text-align: center;
+  font-size: 70px;
+}
+
+#roomText{
+  font-family: 'Bw Modelica';
+  text-align: center;
+  font-size: 40px;
+}
+
+#roomChoices{
+  font-family: 'Bw Modelica';
+  text-align: center;
+  font-size: 55px;
+}
+
+#roomImage{
+  width: 600px;
+  height:700px;
+  align-content: center;
+}
+
+.navbar{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #000033;
+}
+
+.nav li a{
+  text-align: center!important;
+  font-family: 'Bw Modelica'!important;
+  font-size: 50px!important;
+  color: white!important;
+}
+
+.navbar-brand{
+  font-size: 70px!important;
+  color: White!important;
+}
+
+.well{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.aboutMePic{
+  width: 200px;
+  height: 200px;
+}
